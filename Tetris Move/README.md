@@ -1,3 +1,5 @@
+Link to Challenge: https://coderbyte.com/information/Tetris%20Move
+
 Have the function ArrayChallenge(strArr) take strArr parameter being passed which will be an array containing one letter followed by 12 numbers representing a Tetris piece followed by the fill levels for the 12 columns of the board. Calculate the greatest number of horizontal lines that can be completed when the piece arrives at the bottom assuming it is dropped immediately after being rotated and moved horizontally from the top. Tricky combinations of vertical and horizontal movements are excluded. The piece types are represented by capital letters.
 
 For example, with an input of ["L","3","4","4","5","6","2","0","6","5","3","6","6"], the board will look something like this:
